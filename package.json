@@ -1,0 +1,32 @@
+{
+  "name": "management-system",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --mode developmen",
+    "pro": "vite --mode production",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@tiptap/pm": "^2.0.0-beta.220",
+    "@tiptap/starter-kit": "^2.0.0-beta.220",
+    "@tiptap/vue-3": "^2.0.0-beta.220",
+    "@vueup/vue-quill": "^1.0.0-alpha.40",
+    "axios": "^1.3.4",
+    "dayjs": "^1.11.7",
+    "echarts": "^5.4.2",
+    "element-plus": "^2.3.0",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
+    "nprogress": "^0.2.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
